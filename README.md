@@ -1,4 +1,5 @@
 # Apple-Retail-Sales-SQL-Project-Analyzing-Millions-of-Sales-Rows
+![5_New_Apple_Store_on_the_Singapore_-Waterfront](https://github.com/user-attachments/assets/f8953655-ba07-45c4-8b3a-92c0247cde7a)
 
 
 ## Overview
