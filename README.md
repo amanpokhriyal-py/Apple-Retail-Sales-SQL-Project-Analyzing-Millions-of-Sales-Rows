@@ -85,3 +85,7 @@ Here are some of the key questions and insights derived:
 16. Determine the percentage chance of receiving warranty claims after each purchase for each country.
 17. Analyze the year-by-year growth ratio for each store.
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
+
+## Conclusion
+This project highlights my ability to handle complex SQL queries and provides solutions to real-world business problems in the context of a Sales analysis of a store like Apple store. The approach taken here demonstrates a structured problem-solving methodology, data manipulation skills, and the ability to derive actionable insights from data.
+
